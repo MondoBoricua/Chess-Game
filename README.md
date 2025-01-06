@@ -6,6 +6,8 @@
 
 Un juego de ajedrez moderno y elegante desarrollado con HTML, CSS y JavaScript vanilla. Esta implementación ofrece una experiencia de juego completa con todas las reglas del ajedrez, una interfaz de usuario intuitiva y características avanzadas.
 
+[🎮 Jugar Ahora](https://mt3k.net/mondo/Games/Chess/)
+
 ## 🎮 Características
 
 - **Diseño Moderno**
