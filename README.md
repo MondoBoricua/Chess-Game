@@ -53,7 +53,7 @@ Un juego de ajedrez moderno y elegante desarrollado con HTML, CSS y JavaScript v
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/Chess-Game.git
+git clone https://github.com/MondoBoricua/Chess-Game.git
 ```
 
 2. Navega al directorio del proyecto:
